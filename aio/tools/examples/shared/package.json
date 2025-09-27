@@ -20,7 +20,7 @@
   "repository": {},
   "dependencies": {
     "@angular/animations": "^16.0.0-next.0",
-    "@angular/common": "^16.0.0-next.0",
+    "@angular/common": "^16.2.12",
     "@angular/compiler": "^16.0.0-next.0",
     "@angular/core": "^16.0.0-next.0",
     "@angular/elements": "^16.0.0-next.0",
