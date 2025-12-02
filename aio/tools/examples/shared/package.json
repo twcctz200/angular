@@ -20,8 +20,8 @@
   "repository": {},
   "dependencies": {
     "@angular/animations": "^16.0.0-next.0",
-    "@angular/common": "^16.0.0-next.0",
-    "@angular/compiler": "^16.0.0-next.0",
+    "@angular/common": "^19.2.16",
+    "@angular/compiler": "^19.2.17",
     "@angular/core": "^16.0.0-next.0",
     "@angular/elements": "^16.0.0-next.0",
     "@angular/forms": "^16.0.0-next.0",
@@ -37,7 +37,7 @@
     "angular-in-memory-web-api": "~0.15.0",
     "angular-route": "1.8.3",
     "core-js": "^2.5.4",
-    "express": "^4.18.1",
+    "express": "^4.22.0",
     "rxjs": "~7.8.0",
     "systemjs": "~0.19.39",
     "systemjs-plugin-babel": "~0.0.25",
@@ -45,7 +45,7 @@
     "zone.js": "~0.12.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^16.0.0-next.0",
+    "@angular-devkit/build-angular": "^16.0.0",
     "@angular/cli": "^16.0.0-next.0",
     "@angular/compiler-cli": "^16.0.0-next.0",
     "@nguniversal/builders": "^15.0.0",
