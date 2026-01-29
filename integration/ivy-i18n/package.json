@@ -63,7 +63,7 @@
     "protractor": "file:../../node_modules/protractor",
     "serve": "11.2.0",
     "ts-node": "8.3.0",
-    "tslint": "5.18.0",
+    "tslint": "5.20.0",
     "typescript": "file:../../node_modules/typescript"
   }
 }
