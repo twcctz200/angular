@@ -37,7 +37,7 @@
     "angular-in-memory-web-api": "~0.15.0",
     "angular-route": "1.8.3",
     "core-js": "^2.5.4",
-    "express": "^4.18.1",
+    "express": "^4.22.0",
     "rxjs": "~7.8.0",
     "systemjs": "~0.19.39",
     "systemjs-plugin-babel": "~0.0.25",
