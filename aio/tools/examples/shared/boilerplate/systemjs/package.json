@@ -28,7 +28,7 @@
     "@angular/animations": "^16.0.0-next.0",
     "@angular/common": "^16.0.0-next.0",
     "@angular/compiler": "^16.0.0-next.0",
-    "@angular/core": "^16.0.0-next.0",
+    "@angular/core": "^21.2.4",
     "@angular/forms": "^16.0.0-next.0",
     "@angular/platform-browser": "^16.0.0-next.0",
     "@angular/platform-browser-dynamic": "^16.0.0-next.0",
@@ -61,7 +61,7 @@
     "karma-jasmine-html-reporter": "~2.0.0",
     "lite-server": "^2.6.1",
     "protractor": "~7.0.0",
-    "rollup": "^2.70.1",
+    "rollup": "^4.59.0",
     "rollup-plugin-terser": "^7.0.2",
     "typescript": "~4.9.3"
   }
