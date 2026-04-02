@@ -6,7 +6,7 @@
     "@angular/animations": "~15.2.0",
     "@angular/common": "~15.2.0",
     "@angular/compiler": "~15.2.0",
-    "@angular/core": "~15.2.0",
+    "@angular/core": "~19.2.20",
     "@angular/platform-browser": "~15.2.0",
     "@angular/platform-browser-dynamic": "~15.2.0",
     "rxjs": "^7.5.2",
